@@ -1,0 +1,27 @@
+{
+    "name": "@zaadevofc/print-line",
+    "version": "1.0.0",
+    "description": "@zaadevofc/print-line",
+    "main": "index.js",
+    "scripts": {
+        "test": "node example.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zaadevofc/print-line.git"
+    },
+    "keywords": [
+        "log",
+        "print-line",
+        "nodejs"
+    ],
+    "author": "zaadevofc",
+    "license": "Apache",
+    "bugs": {
+        "url": "https://github.com/zaadevofc/print-line/issues"
+    },
+    "homepage": "https://github.com/zaadevofc/print-line#readme",
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}
