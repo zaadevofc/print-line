@@ -1,8 +1,9 @@
 {
     "name": "@zaadevofc/print-line",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "@zaadevofc/print-line",
     "main": "index.js",
+    "private": false,
     "scripts": {
         "test": "node example.js"
     },
