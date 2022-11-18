@@ -16,7 +16,7 @@ const printLine = require("@zaadevofc/print-line");
 
 #### Example :
 
-![Example Image](http://url/to/img.png)
+![Example Image](https://github.com/zaadevofc/print-line/blob/e3c2790820bd27aa48c4dba69a21e9d9a7eca16e/result.jpg)
 
 see [example.js](https://github.com/zaadevofc/print-line/blob/master/example.js) for details.
 
